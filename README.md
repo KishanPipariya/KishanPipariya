@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KishanPipariya
 - 👀 I’m interested in Artificial Intelligence, Compilers, Functional Programming
-- 🌱 I’m currently learning Decision Trees
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Deep learning
 - 📫 How to reach me : intelkishan@gmail.com
 
 <!---
