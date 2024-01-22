@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KishanPipariya
-- 👀 I’m interested in Artificial Intelligence, Compilers, Functional Programming
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me : intelkishan@gmail.com
 
