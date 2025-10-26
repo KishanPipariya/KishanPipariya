@@ -1,6 +1,6 @@
 # Hi there, I'm Kishan Pipariya 👋
 
-I'm an open-source contributor passionate about Speech Processing, Computer Vision, and building impactful AI solutions. Currently, I'm diving into Golang and actively contributing to [Antrea](https://github.com/antrea-io/antrea). My background includes multiple research internships and first-author papers in top conferences and journals.
+I'm an open-source contributor passionate about Speech Processing, Computer Vision, and building impactful AI solutions. Currently, I'm diving into Golang. My background includes multiple research internships and first-author papers in top conferences and journals.
 
 ## 🛠️ Skills & Interests
 
