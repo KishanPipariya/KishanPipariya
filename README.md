@@ -26,7 +26,6 @@ I'm an open-source contributor passionate about Speech Processing, Computer Visi
 ## 🌱 Current Focus
 
 - Learning Golang
-- Contributing to [Antrea](https://github.com/antrea-io/antrea)
 - Exploring new open-source opportunities
 
 ## 📚 Hobbies & Fun Facts
